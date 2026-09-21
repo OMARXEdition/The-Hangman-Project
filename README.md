@@ -10,7 +10,23 @@ This project was developed to practice object-oriented programming, Windows Form
 * **External Word Banks:** Words are loaded at runtime from dedicated text files (`EasyWords.txt`, `MediumWords.txt`, `HardWords.txt`), separating data from the core application logic.
 * **Dynamic UI & State Management:** The interface automatically updates to reflect correct guesses in the word blanks, deducts lives for incorrect guesses, and updates the hangman visual state.
 * **Seamless Navigation:** Smooth transitions between the Main Menu and the active Game Screen using intelligent panel and form management.
+
+## Screen Shots
  
+**Main Menu**
+ 
+![Main Menu](Screenshots/main-menu.png)
+ 
+**Gameplay**
+ 
+![Gameplay](Screenshots/gameplay.png)
+ 
+## 📝 Development Notes
+ 
+Here's my workspace in Notion for ideas and the problems I faced while working on the project:
+ 
+[Hangman Project Workspace](https://app.notion.com/p/Hangman-Project-Workplace-3ddc5acfd205808fbe8dc586eef53e23?source=copy_link)
+
 ### Prerequisites
  
 To run or edit this project, you will need:
