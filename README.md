@@ -1,8 +1,8 @@
 # The Hangman Game
  
-A classic Hangman and Word Guesser game built with C# and the .NET Framework. This desktop application challenges players to guess missing letters in a hidden word before they run out of lives and the hangman meets his fate.
+A classic Hangman - Word Guesser game built with C# and the .NET Framework. This desktop application challenges players to guess missing letters in a hidden word before they run out of lives and the hangman meets his fate.
  
-This project was developed to practice object-oriented programming, Windows Forms UI design, and file handling in C#.
+This project was developed to practice OOP, Windows Forms UI design, and file handling in C#.
  
 ##  Features
  
@@ -10,16 +10,17 @@ This project was developed to practice object-oriented programming, Windows Form
 * **External Word Banks:** Words are loaded at runtime from dedicated text files (`EasyWords.txt`, `MediumWords.txt`, `HardWords.txt`), separating data from the core application logic.
 * **Dynamic UI & State Management:** The interface automatically updates to reflect correct guesses in the word blanks, deducts lives for incorrect guesses, and updates the hangman visual state.
 * **Seamless Navigation:** Smooth transitions between the Main Menu and the active Game Screen using intelligent panel and form management.
+* **Sound Player:** For Each Scenario There's a Sound Effect for it like winning the game or losing it , also for correct answers and wrong answers Too .
 
 ## Screen Shots
  
 **Main Menu**
  
-![Main Menu](Screenshots/main-menu.png)
+![Screenshots/main-menu.png](https://github.com/OMARXEdition/The-Hangman-Project/blob/master/ScreenShots/main-menu.png?raw=true)
  
 **Gameplay**
  
-![Gameplay](Screenshots/gameplay.png)
+![Screenshots/gameplay.png](https://github.com/OMARXEdition/The-Hangman-Project/blob/master/ScreenShots/gameplay.png?raw=true)
  
 ## 📝 Development Notes
  
